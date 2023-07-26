@@ -1,0 +1,1 @@
+select  first_name from sales.customers where first_name like 'A%'
