@@ -12,6 +12,10 @@ insert into table1 values
 select* from table1
 
 
+
+
+
+
 -- exclusive locking
 
 begin tran
